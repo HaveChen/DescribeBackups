@@ -1,0 +1,4 @@
+accessKeyId=LTAImN9vCL40twAQ
+accessSecretId=j9Rku9glKn23hzmtMZQEnJaI35DfCU
+version=2014-08-15
+loginfoAddress=E:/ftpFile
