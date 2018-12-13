@@ -1,4 +1,4 @@
-accessKeyId=LTAICMDKD2Rvnf3T
-accessSecretId=DWXq65DQlSY7Y8e2nwRVY6KOcrnIX9
+accessKeyId=L1TAICMDKD2Rvnf3T1
+accessSecretId=DWXq651DQlSY7Y8e2nwRVY6KOcrnIX91
 version=2014-08-15
 loginfoAddress=E:/ftpFile

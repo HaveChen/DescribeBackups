@@ -38,9 +38,8 @@ public class DBBackUp {
 		String path = filePaths + File.separator + "properties.txt";
 		Map<String, String> keyMap = txt2String(path);
 		// 获取备份实例名称
-		if (args.length == 0) {
-			// rm-wz9e6mgmi403u848a
-			String caseName = "rm-wz9e6mgmi403u848a";
+		if (args.length > 0) {
+			String caseName = arg[0];
 			String data = getBackMessage(caseName, keyMap);
 			// 解析data数据，获取最新的备份url
 			analysisURl(data);
